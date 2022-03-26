@@ -10,6 +10,6 @@ Zaimplementowane sa:
 - find(), ze złożonością O(N).
 
 Są jeszcze push_back() i push_front(), które działają jak insert().
-Nie, print() nie robi tego czego chcesz.
+Nie, print() nie robi tego co chcesz.
 
 Pozdrawiam miłej kawusi.
